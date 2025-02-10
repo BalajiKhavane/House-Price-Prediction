@@ -1,2 +1,21 @@
-# House-Price-Prediction
-This project aims to predict house prices based on various features such as location, size, number of rooms, and other relevant attributes. Using machine learning techniques, we analyze historical housing data to build a predictive model that estimates the price of a house given its features.
+# Predicting-House-prices
+
+Predicting house prices using Linear Regression 
+
+This project applies  basic machine learning concepts on Ames Housing dataset to predict the selling price of a new home.
+
+**Software and Libraries**
+
+This project uses the following software and Python libraries:
+
+- Python
+- NumPy
+- pandas
+- matplotlib
+- scikit-learn
+
+
+The tutorial and write up for the code can be found here 
+https://medium.com/africa-creates/predicting-house-prices-using-linear-regression-fe699d091e04
+
+Thank you
